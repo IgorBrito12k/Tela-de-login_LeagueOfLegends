@@ -1,5 +1,5 @@
 # Tela-de-login_LeagueOfLegends
-Tela de login feita para fins didáticos através do tutorial manual do dev
+Tela de login feita para fins didáticos através do tutorial manual do dev no youtube
 
 ##
 
